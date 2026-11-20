@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+.skillflow/
+__pycache__/
+.pytest_cache/
+.pytest-run/
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+*.log
+.vercel/

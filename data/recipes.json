@@ -1,0 +1,163 @@
+[
+  {
+    "id": "devolucion-plazo",
+    "title": "Devoluciones dentro y fuera de plazo",
+    "description": "Determinar si una devolución está dentro del plazo estándar.",
+    "category": "Devoluciones",
+    "difficulty": "Básico",
+    "minutes": 4,
+    "objective": "Determinar si una devolución está dentro del plazo estándar.",
+    "source": "NR-DEV-01 · Política de devoluciones",
+    "excerpt": "La política estándar de NovaRetail permite solicitar una devolución hasta 14 días después de la fecha de compra. Si han pasado más de 14 días, informa al cliente que no procede como devolución estándar y registra la decisión.",
+    "keywords": "reembolso retorno regresar producto ticket plazo después 20 días vencido fecha compra devolución devolver",
+    "steps": [
+      "Consulta la fecha de compra en el ticket o registro de venta.",
+      "Compara la fecha de solicitud con el plazo estándar de 14 días desde la compra.",
+      "Si han pasado más de 14 días, explica que la devolución estándar no procede y registra la decisión."
+    ],
+    "examples": [
+      "A los 10 días, la solicitud está dentro del plazo estándar.",
+      "A los 20 días, informa que excede el plazo estándar y anota la fecha y la decisión."
+    ]
+  },
+  {
+    "id": "registro-devolucion",
+    "title": "Registrar una devolución",
+    "description": "Dejar trazabilidad de una devolución admitida.",
+    "category": "Devoluciones",
+    "difficulty": "Intermedio",
+    "minutes": 5,
+    "objective": "Dejar trazabilidad de una devolución admitida.",
+    "source": "NR-DEV-02 · Registro de retornos",
+    "excerpt": "Para registrar una devolución admitida, abre el folio de compra en el portal, selecciona el artículo y registra el motivo. Confirma el folio de devolución y compártelo con el cliente.",
+    "keywords": "devolución admitida registrar procesar cerrar folio motivo artículo devuelto reembolso trámite",
+    "steps": [
+      "Verifica el folio de compra y selecciona el artículo.",
+      "Escribe el motivo y confirma el registro.",
+      "Comparte el folio de devolución para su seguimiento."
+    ],
+    "examples": [
+      "Una devolución admitida de un accesorio queda vinculada a su folio de compra."
+    ]
+  },
+  {
+    "id": "queja-servicio",
+    "title": "Documentar una queja de servicio",
+    "description": "Registrar inconformidades de forma objetiva y comunicar los siguientes pasos.",
+    "category": "Atención al cliente",
+    "difficulty": "Básico",
+    "minutes": 5,
+    "objective": "Registrar inconformidades de forma objetiva y comunicar los siguientes pasos.",
+    "source": "NR-ATC-01 · Quejas de servicio",
+    "excerpt": "Escucha al cliente, registra los hechos y el canal en el módulo de incidencias, y comparte el folio de la queja. Evita prometer compensaciones sin autorización.",
+    "keywords": "queja reclamación inconformidad mal trato atención grosera folio reportar incidente verbal",
+    "steps": [
+      "Escucha el relato y confirma el motivo con la persona.",
+      "Registra los hechos, la fecha y el canal sin juicios personales.",
+      "Entrega el folio de la queja y explica cómo consultar su estado."
+    ],
+    "examples": [
+      "Si reportan un trato descortés, anota lo sucedido y comparte el folio."
+    ]
+  },
+  {
+    "id": "escalamiento",
+    "title": "Escalar una incidencia al supervisor",
+    "description": "Derivar casos que exceden las atribuciones del agente.",
+    "category": "Atención al cliente",
+    "difficulty": "Intermedio",
+    "minutes": 6,
+    "objective": "Derivar casos que exceden las atribuciones del agente.",
+    "source": "NR-ATC-02 · Escalamiento",
+    "excerpt": "Cuando un caso de servicio excede las atribuciones del agente, documenta el motivo, adjunta el folio y deriva al supervisor. Informa al cliente que la incidencia se remitió, sin prometer una resolución.",
+    "keywords": "supervisor escalar derivo elevar revisión excede autoridad reclamación cobro duplicado compensación",
+    "steps": [
+      "Confirma que el caso requiere una decisión del supervisor.",
+      "Adjunta el folio, los hechos y la razón del escalamiento.",
+      "Deriva el caso y comunica su estado al cliente."
+    ],
+    "examples": [
+      "Si el agente no puede resolver una inconformidad de cobro, turna el caso al supervisor."
+    ]
+  },
+  {
+    "id": "rastreo",
+    "title": "Consultar el rastreo de un pedido",
+    "description": "Compartir el estado de un envío desde el registro oficial.",
+    "category": "Envíos",
+    "difficulty": "Básico",
+    "minutes": 4,
+    "objective": "Compartir el estado de un envío desde el registro oficial.",
+    "source": "NR-ENV-01 · Rastreo",
+    "excerpt": "Busca el pedido por su folio en el portal y consulta la guía. Verifica el último movimiento de la transportista antes de compartir el estado o la fecha estimada de entrega.",
+    "keywords": "rastrear rastreo guía pedido seguimiento paquete transportista tránsito despacho fecha estimada",
+    "steps": [
+      "Verifica el folio del pedido.",
+      "Consulta la guía y su último movimiento en el portal.",
+      "Comparte el estado observado y presenta la fecha estimada como estimación."
+    ],
+    "examples": [
+      "Si la guía dice en tránsito, comunica ese estado e indica la última actualización."
+    ]
+  },
+  {
+    "id": "entrega-incidencia",
+    "title": "Gestionar una entrega con incidencia",
+    "description": "Registrar entregas fallidas, demoras o paquetes que figuran como entregados y no llegaron.",
+    "category": "Envíos",
+    "difficulty": "Intermedio",
+    "minutes": 7,
+    "objective": "Registrar entregas fallidas, demoras o paquetes que figuran como entregados y no llegaron.",
+    "source": "NR-ENV-02 · Incidencias de entrega",
+    "excerpt": "Si un paquete figura como entregado pero el cliente indica que no llegó, verifica la guía y el comprobante de entrega. Registra una incidencia de transporte y comunica el folio al cliente.",
+    "keywords": "entrega fallida paquete no llegó demora retraso intento fallido entregado no recibido perdió comprobante incidencia transporte",
+    "steps": [
+      "Verifica el folio, la guía y el evento de la transportista.",
+      "Consulta el comprobante, si está disponible, y registra la incidencia.",
+      "Comparte el folio para seguimiento y canaliza según el evento registrado."
+    ],
+    "examples": [
+      "Si la guía indica entregado y la caja no llegó, revisa el comprobante y abre una incidencia."
+    ]
+  },
+  {
+    "id": "acceso-portal",
+    "title": "Recuperar el acceso al portal",
+    "description": "Recuperar el acceso con el correo corporativo.",
+    "category": "Herramientas digitales",
+    "difficulty": "Básico",
+    "minutes": 4,
+    "objective": "Recuperar el acceso con el correo corporativo.",
+    "source": "NR-DIG-01 · Acceso al portal",
+    "excerpt": "En la página de inicio del portal selecciona Recuperar acceso e introduce tu correo corporativo. Si el mensaje no llega tras revisar correo no deseado, contacta a soporte interno.",
+    "keywords": "contraseña olvidé clave iniciar sesión login cuenta empleado acceso portal recuperar correo",
+    "steps": [
+      "Abre la opción Recuperar acceso.",
+      "Ingresa tu correo corporativo y revisa la bandeja de entrada.",
+      "Si no recibes el mensaje, revisa correo no deseado y contacta a soporte interno."
+    ],
+    "examples": [
+      "Cuando la contraseña ya no funciona, usa Recuperar acceso con tu correo corporativo."
+    ]
+  },
+  {
+    "id": "buscar-guias",
+    "title": "Encontrar una guía vigente",
+    "description": "Localizar y verificar un procedimiento en la biblioteca interna.",
+    "category": "Herramientas digitales",
+    "difficulty": "Básico",
+    "minutes": 3,
+    "objective": "Localizar y verificar un procedimiento en la biblioteca interna.",
+    "source": "NR-DIG-02 · Biblioteca interna",
+    "excerpt": "Abre Smart Recipes, busca por palabra clave y filtra por categoría. Abre el procedimiento y comprueba su fuente documental antes de aplicarlo.",
+    "keywords": "buscar busco localizar manual guía procedimiento catálogo biblioteca filtros categoría vigente recursos",
+    "steps": [
+      "Abre la biblioteca de Smart Recipes.",
+      "Escribe una palabra clave y aplica el filtro de categoría si lo necesitas.",
+      "Abre la guía y revisa la fuente documental."
+    ],
+    "examples": [
+      "Busca «rastreo» en Envíos y revisa la fuente NR-ENV-01."
+    ]
+  }
+]

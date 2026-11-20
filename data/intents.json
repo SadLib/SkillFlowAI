@@ -1,0 +1,802 @@
+[
+  {
+    "text": "Un cliente quiere devolver un producto después de 20 días",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cuánto tiempo tiene el cliente para pedir una devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Compró hace dos semanas y quiere regresar el artículo",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Me trajeron una prenda para solicitar un reembolso",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Todavía se puede devolver esta compra",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo proceso el retorno de un producto",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Qué política aplica si pasaron más de catorce días",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Necesito registrar una devolución en tienda",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Una compradora se arrepintió y pide que le regresen el dinero",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cuál es el plazo estándar de devoluciones",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Dónde reviso la fecha de compra para aceptar un retorno",
+    "label": "devoluciones"
+  },
+  {
+    "text": "El cliente quiere regresar unos zapatos que compró ayer",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo le explico que su devolución está fuera de plazo",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Qué hago si alguien insiste en devolver una compra antigua",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Puedo tramitar el retorno si la compra fue hace diez días",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo consulto el estado de una devolución iniciada",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Qué datos del ticket debo verificar al devolver un artículo",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Quiero ayudarle a regresar un producto recién comprado",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Ya pasó el plazo y solicita un reembolso",
+    "label": "devoluciones"
+  },
+  {
+    "text": "La compra se hizo hace quince días, ¿se acepta la devolución?",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo se cierra el registro de un producto devuelto",
+    "label": "devoluciones"
+  },
+  {
+    "text": "En qué pantalla ingreso una solicitud de retorno",
+    "label": "devoluciones"
+  },
+  {
+    "text": "La persona quiere devolver un pedido comprado en sucursal",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cuál es la fecha límite para regresar mercancía",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Qué debo decir cuando la devolución no procede por fecha",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Tengo un ticket y me piden procesar el artículo devuelto",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Me solicitan cancelar una compra entregada y regresar el producto",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Puedo iniciar el trámite de devolución con el folio de compra",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Quieren regresar un accesorio antes de que venza el plazo",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Me preguntan cuándo aparecerá el reembolso de su devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Pasaron tres semanas desde la compra y quiere devolverla",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo documento que un retorno está fuera del plazo",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Qué se hace con los productos recibidos por devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "La clienta pide un cambio porque quiere regresar la compra",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Dónde está el procedimiento de retornos y reembolsos",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Necesita deshacer su compra y entregar el producto",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Quieren saber si su compra sigue dentro de los días para devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Tengo que rechazar un retorno tardío y explicar la política",
+    "label": "devoluciones"
+  },
+  {
+    "text": "La devolución quedó abierta y no sé cómo completarla",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo verifico si corresponde devolver el importe pagado",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cuándo inicia el conteo de días para devolver una compra",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Quiero confirmar que un reembolso fue registrado",
+    "label": "devoluciones"
+  },
+  {
+    "text": "El comprador volvió con un artículo para tramitar su regreso",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Me piden tramitar un retorno de mercancía en el mostrador",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Cómo confirmo si se venció el plazo de una devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Un cliente molesto quiere presentar una queja formal",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo registro una reclamación por mala atención",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "El cliente exige hablar con un supervisor por el trato recibido",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Dónde documento una inconformidad de un comprador",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué hago si una persona se altera en el mostrador",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Una clienta reportó un cobro duplicado y pide abrir un caso",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo doy seguimiento a una queja ingresada ayer",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué datos necesita el reporte de una reclamación",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo respondo a un cliente que no está conforme con el servicio",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Necesito escalar una inconformidad a mi supervisor",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "El cliente pide el folio de su queja, dónde está",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo manejo una conversación con un comprador frustrado",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué digo si no puedo prometer una compensación por la queja",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo cierro un caso de inconformidad ya resuelto",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Un comprador quiere dejar constancia escrita de un incidente",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo clasifico una queja por atención en sucursal",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Me dicen que el trato fue grosero y quieren denunciarlo",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué información incluyo al turnar un reclamo",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "El cliente protesta por una diferencia en su cobro",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo escucho y valido la molestia de una clienta",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo abro un caso por un incidente con un empleado",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué nivel de prioridad asigno a una queja por cobro",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Un cliente solicita que su inconformidad conste con un número",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo localizo una incidencia registrada por otro asesor",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué paso sigue tras recibir una queja de servicio",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Necesito registrar los hechos de un reclamo sin opiniones",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "La persona rechaza la primera solución y solicita revisión",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo escalo un caso que excede mis atribuciones",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Me piden el estado de una reclamación de servicio",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Un comprador quiere reportar que recibió un trato irrespetuoso",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Tengo a una persona enojada y necesito bajar la tensión",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Dónde anoto el canal por el que recibí el reclamo",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué hago si una queja de cobro no se puede resolver en mostrador",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo comunico al cliente que su incidencia ya fue derivada",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cuál es el procedimiento para documentar una queja verbal",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Una clienta dice que nadie le contesta sobre su inconformidad",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo verifico los datos antes de cerrar un reclamo",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Necesito reportar una atención deficiente sin hacer promesas",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Me solicitan ayuda para formalizar una queja de la tienda",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Qué hago cuando el cliente pide que alguien revise su caso",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo registro la versión del cliente sobre una discusión",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Un comprador amenaza con presentar una queja por mal servicio",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cuál es el canal de escalamiento de una incidencia de atención",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Cómo acompaño a una persona que acaba de reportar un problema de trato",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Dónde guardo la resolución de una inconformidad",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Dónde puedo revisar el rastreo de un paquete",
+    "label": "envios"
+  },
+  {
+    "text": "El paquete no ha llegado en la fecha indicada",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo encuentro el número de guía del pedido",
+    "label": "envios"
+  },
+  {
+    "text": "Qué hago si el envío aparece detenido en tránsito",
+    "label": "envios"
+  },
+  {
+    "text": "El cliente quiere saber cuándo llegará su entrega",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo actualizo el domicilio antes de despachar un envío",
+    "label": "envios"
+  },
+  {
+    "text": "El repartidor pasó y no encontró a nadie",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo consulto el estado de un pedido enviado",
+    "label": "envios"
+  },
+  {
+    "text": "Un cliente recibió el aviso de entrega pero no tiene el paquete",
+    "label": "envios"
+  },
+  {
+    "text": "Qué se hace cuando una guía no muestra movimiento",
+    "label": "envios"
+  },
+  {
+    "text": "Necesito revisar la última actualización de la transportista",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo informo un retraso en el envío",
+    "label": "envios"
+  },
+  {
+    "text": "En qué pantalla busco el pedido para rastrearlo",
+    "label": "envios"
+  },
+  {
+    "text": "Mi cliente recibió una entrega incompleta",
+    "label": "envios"
+  },
+  {
+    "text": "Qué datos necesito para abrir una incidencia de transporte",
+    "label": "envios"
+  },
+  {
+    "text": "Dónde está el historial de movimientos de una guía",
+    "label": "envios"
+  },
+  {
+    "text": "El pedido sigue en preparación y el cliente pregunta por la entrega",
+    "label": "envios"
+  },
+  {
+    "text": "Qué hago ante un intento fallido de entrega",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo confirmo que la paquetería recogió el pedido",
+    "label": "envios"
+  },
+  {
+    "text": "Nos avisaron que la dirección de entrega está incorrecta",
+    "label": "envios"
+  },
+  {
+    "text": "Quiero compartir el enlace de rastreo con el cliente",
+    "label": "envios"
+  },
+  {
+    "text": "El comprador dice que dejaron su caja en otra casa",
+    "label": "envios"
+  },
+  {
+    "text": "Cuál es el proceso para verificar un envío demorado",
+    "label": "envios"
+  },
+  {
+    "text": "La guía aparece como entregada pero nadie la recibió",
+    "label": "envios"
+  },
+  {
+    "text": "Cuándo debo escalar un paquete extraviado",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo reviso si hubo una novedad con la paquetería",
+    "label": "envios"
+  },
+  {
+    "text": "El cliente necesita conocer la fecha estimada del despacho",
+    "label": "envios"
+  },
+  {
+    "text": "Puedo modificar la dirección si el pedido ya va en tránsito",
+    "label": "envios"
+  },
+  {
+    "text": "Qué datos debo validar antes de compartir un estado de envío",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo se registra una entrega fallida en el sistema",
+    "label": "envios"
+  },
+  {
+    "text": "Me preguntan en qué etapa está su pedido a domicilio",
+    "label": "envios"
+  },
+  {
+    "text": "La transportista reportó una excepción en la ruta",
+    "label": "envios"
+  },
+  {
+    "text": "Necesito saber por qué no se actualiza el seguimiento del paquete",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo comunico la fecha estimada sin garantizarla",
+    "label": "envios"
+  },
+  {
+    "text": "El envío lleva varios días sin moverse del centro de distribución",
+    "label": "envios"
+  },
+  {
+    "text": "Dónde verifico el comprobante de entrega",
+    "label": "envios"
+  },
+  {
+    "text": "Qué hago si solo llegó una parte del pedido a domicilio",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo canalizo un pedido que la transportista marcó perdido",
+    "label": "envios"
+  },
+  {
+    "text": "La persona quiere confirmar que su compra ya salió de almacén",
+    "label": "envios"
+  },
+  {
+    "text": "Qué respondo si el repartidor no pudo entregar la compra",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo verifico la guía asociada con un folio de pedido",
+    "label": "envios"
+  },
+  {
+    "text": "El paquete salió con un código postal equivocado",
+    "label": "envios"
+  },
+  {
+    "text": "El cliente pide confirmar quién transporta su mercancía",
+    "label": "envios"
+  },
+  {
+    "text": "Ya venció la ventana estimada y el paquete sigue en tránsito",
+    "label": "envios"
+  },
+  {
+    "text": "Me piden revisar el motivo de la demora de un envío",
+    "label": "envios"
+  },
+  {
+    "text": "Cómo inicio sesión en el portal interno de capacitación",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde encuentro el catálogo de procedimientos",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Olvidé mi contraseña del portal, cómo la recupero",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué hago si mi cuenta de empleado se bloqueó",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo busco un manual por categoría",
+    "label": "informacion_general"
+  },
+  {
+    "text": "En qué sección del portal encuentro las guías",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cuál es el acceso al sistema interno de NovaRetail",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo consulto mis cursos de capacitación asignados",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde está el directorio de contactos internos",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo actualizo mis datos de perfil",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué debo hacer en mi primer día en tienda",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Quién puede ayudarme con un problema de acceso al portal",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde veo el horario de apertura de la sucursal",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo cambio mi contraseña de empleado",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué información encuentro en la biblioteca interna",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Necesito aprender a buscar un procedimiento digital",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde registro que terminé una capacitación",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué hago si la pantalla de inicio de sesión no carga",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo compruebo que estoy usando mi correo corporativo",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde encuentro ayuda para usar las herramientas digitales",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo filtro por dificultad los manuales de capacitación",
+    "label": "informacion_general"
+  },
+  {
+    "text": "En qué página puedo ver mi avance de aprendizaje",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo navego a la sección de recursos del equipo",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde miro qué procedimientos tengo pendientes",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué puedo hacer si el enlace de acceso expiró",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo recupero el acceso con mi correo de la tienda",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde consulto la política general de uso de herramientas",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué significa el indicador de progreso del portal",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde encuentro las instrucciones para personal nuevo",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cuál es el canal interno de soporte de sistemas",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo busco el manual vigente en el catálogo",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Necesito orientación básica sobre la plataforma de aprendizaje",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde obtengo el enlace al portal de empleados",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Mi clave ya no sirve y quiero restablecerla",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo reviso qué módulos de aprendizaje están completos",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde se consulta la versión actual de una guía interna",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué hago si no llega el correo para recuperar mi cuenta",
+    "label": "informacion_general"
+  },
+  {
+    "text": "El portal pide iniciar sesión otra vez y se me olvidó el acceso",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde puedo encontrar la información de inducción",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Cómo puedo consultar recursos para mi puesto",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué hago si el catálogo digital no muestra resultados",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Dónde veo mi historial de capacitación",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Quiero abrir una guía interna y no sé cómo encontrarla",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Puedo filtrar las recetas de aprendizaje por tipo de tarea",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Qué necesito para ingresar al portal por primera vez",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Un cliente pregunta si puede cambiar un producto por otra talla mediante una devolución",
+    "label": "devoluciones"
+  },
+  {
+    "text": "La tienda recibió una solicitud para reembolsar una compra reciente",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Necesito revisar si el artículo todavía cumple las condiciones para su retorno",
+    "label": "devoluciones"
+  },
+  {
+    "text": "¿Qué pasos sigo para aceptar la devolución de una compra en sucursal?",
+    "label": "devoluciones"
+  },
+  {
+    "text": "Una persona solicita cancelar la compra y recuperar el importe pagado",
+    "label": "devoluciones"
+  },
+  {
+    "text": "El cliente reporta que el trato recibido durante su visita fue irrespetuoso",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Debo documentar la inconformidad por un cobro incorrecto en caja",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Una compradora pide escalar su queja porque no quedó satisfecha con la atención",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "El cliente recibió mercancía dañada y solicita registrar una reclamación.",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "El artículo llegó roto; necesito abrir una queja por producto defectuoso.",
+    "label": "reclamaciones"
+  },
+  {
+    "text": "Necesito consultar el estado de un paquete con su número de seguimiento",
+    "label": "envios"
+  },
+  {
+    "text": "La guía indica movimiento pero el pedido no ha llegado a la dirección",
+    "label": "envios"
+  },
+  {
+    "text": "¿Dónde verifico la fecha estimada de entrega de una compra?",
+    "label": "envios"
+  },
+  {
+    "text": "El envío aparece como entregado pero el cliente no recibió el paquete",
+    "label": "envios"
+  },
+  {
+    "text": "Quiero revisar si el pedido ya salió del centro de distribución",
+    "label": "envios"
+  },
+  {
+    "text": "Una empleada necesita restablecer el acceso a su cuenta del portal interno",
+    "label": "informacion_general"
+  },
+  {
+    "text": "¿En qué sección encuentro el calendario de capacitación para el personal?",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Necesito actualizar mis datos de contacto en el sistema de empleados",
+    "label": "informacion_general"
+  },
+  {
+    "text": "¿Cómo ingreso al tablero interno desde una computadora de la tienda?",
+    "label": "informacion_general"
+  },
+  {
+    "text": "Busco la guía para solicitar ayuda con el acceso a las herramientas digitales",
+    "label": "informacion_general"
+  }
+]

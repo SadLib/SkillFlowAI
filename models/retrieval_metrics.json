@@ -1,0 +1,96 @@
+{
+  "threshold": 0.16,
+  "top1_accuracy": 1.0,
+  "recall_at_3": 1.0,
+  "abstention_accuracy": 1.0,
+  "results": [
+    {
+      "query": "Un cliente quiere devolver un producto después de 20 días, ¿qué hago?",
+      "expected": "devolucion-plazo",
+      "top": "devolucion-plazo",
+      "score": 0.2783394714355894,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cuál es el plazo para devolver fuera de fecha?",
+      "expected": "devolucion-plazo",
+      "top": "devolucion-plazo",
+      "score": 0.29610891855968124,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cómo registro una devolución admitida y comparto su folio?",
+      "expected": "registro-devolucion",
+      "top": "registro-devolucion",
+      "score": 0.45594602203090473,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "Quiero registrar una queja de servicio por mala atención",
+      "expected": "queja-servicio",
+      "top": "queja-servicio",
+      "score": 0.3810591582710081,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cómo escalo al supervisor una incidencia que excede mis atribuciones?",
+      "expected": "escalamiento",
+      "top": "escalamiento",
+      "score": 0.42872853571380387,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cómo consulto el rastreo de un pedido con el número de guía?",
+      "expected": "rastreo",
+      "top": "rastreo",
+      "score": 0.5088224671031576,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "El paquete indica entregado pero el cliente no lo recibió",
+      "expected": "entrega-incidencia",
+      "top": "entrega-incidencia",
+      "score": 0.2727401616410268,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "Olvidé mi contraseña del portal y necesito recuperar acceso",
+      "expected": "acceso-portal",
+      "top": "acceso-portal",
+      "score": 0.5277226837400779,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cómo busco un manual vigente en la biblioteca?",
+      "expected": "buscar-guias",
+      "top": "buscar-guias",
+      "score": 0.2923218372488279,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cuál es la distancia entre Marte y Júpiter?",
+      "expected": null,
+      "top": null,
+      "score": null,
+      "correct": true,
+      "hit_at_3": true
+    },
+    {
+      "query": "¿Cómo afino una guitarra clásica?",
+      "expected": null,
+      "top": null,
+      "score": null,
+      "correct": true,
+      "hit_at_3": true
+    }
+  ]
+}

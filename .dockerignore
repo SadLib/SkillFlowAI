@@ -1,0 +1,12 @@
+**
+!apps/
+!apps/api/
+!apps/api/requirements.txt
+!apps/api/skillflow/
+!apps/api/skillflow/**
+**/__pycache__/
+!data/
+!data/*.json
+!models/
+!models/*.json
+!models/*.joblib

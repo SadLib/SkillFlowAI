@@ -1,0 +1,46 @@
+[
+  {
+    "query": "Un cliente quiere devolver un producto después de 20 días, ¿qué hago?",
+    "expected": "devolucion-plazo"
+  },
+  {
+    "query": "¿Cuál es el plazo para devolver fuera de fecha?",
+    "expected": "devolucion-plazo"
+  },
+  {
+    "query": "¿Cómo registro una devolución admitida y comparto su folio?",
+    "expected": "registro-devolucion"
+  },
+  {
+    "query": "Quiero registrar una queja de servicio por mala atención",
+    "expected": "queja-servicio"
+  },
+  {
+    "query": "¿Cómo escalo al supervisor una incidencia que excede mis atribuciones?",
+    "expected": "escalamiento"
+  },
+  {
+    "query": "¿Cómo consulto el rastreo de un pedido con el número de guía?",
+    "expected": "rastreo"
+  },
+  {
+    "query": "El paquete indica entregado pero el cliente no lo recibió",
+    "expected": "entrega-incidencia"
+  },
+  {
+    "query": "Olvidé mi contraseña del portal y necesito recuperar acceso",
+    "expected": "acceso-portal"
+  },
+  {
+    "query": "¿Cómo busco un manual vigente en la biblioteca?",
+    "expected": "buscar-guias"
+  },
+  {
+    "query": "¿Cuál es la distancia entre Marte y Júpiter?",
+    "expected": null
+  },
+  {
+    "query": "¿Cómo afino una guitarra clásica?",
+    "expected": null
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q1",
+    "category": "Devoluciones",
+    "recipe_id": "devolucion-plazo",
+    "prompt": "¿Cuál es el plazo estándar para solicitar una devolución?",
+    "options": [
+      "30 días",
+      "14 días",
+      "20 días"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "q2",
+    "category": "Devoluciones",
+    "recipe_id": "devolucion-plazo",
+    "prompt": "La compra fue hace 20 días. ¿Cómo respondes?",
+    "options": [
+      "Explico que excede el plazo y registro la decisión",
+      "La acepto automáticamente",
+      "Prometo un reembolso inmediato"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "q3",
+    "category": "Devoluciones",
+    "recipe_id": "registro-devolucion",
+    "prompt": "¿Qué compartes tras registrar una devolución admitida?",
+    "options": [
+      "La contraseña del portal",
+      "Una fecha de reembolso garantizada",
+      "El folio de devolución"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "q4",
+    "category": "Atención al cliente",
+    "recipe_id": "queja-servicio",
+    "prompt": "¿Qué debes registrar al recibir una queja de servicio?",
+    "options": [
+      "Los hechos, la fecha y el canal",
+      "Tu opinión sobre el cliente",
+      "Solo el nombre del asesor"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "q5",
+    "category": "Atención al cliente",
+    "recipe_id": "escalamiento",
+    "prompt": "¿Qué haces si el caso excede tus atribuciones?",
+    "options": [
+      "Lo cierro sin registrar",
+      "Lo derivo al supervisor con el folio y motivo",
+      "Prometo una compensación"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "q6",
+    "category": "Envíos",
+    "recipe_id": "rastreo",
+    "prompt": "¿Qué verificas antes de informar el estado de un paquete?",
+    "options": [
+      "La última compra del cliente",
+      "Solo la fecha estimada",
+      "La guía y el último movimiento"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "q7",
+    "category": "Envíos",
+    "recipe_id": "entrega-incidencia",
+    "prompt": "La guía indica entregado, pero el cliente no lo recibió. ¿Qué haces?",
+    "options": [
+      "Verifico el comprobante y registro una incidencia",
+      "Cierro el pedido sin revisión",
+      "Prometo otro envío inmediato"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "q8",
+    "category": "Herramientas digitales",
+    "recipe_id": "acceso-portal",
+    "prompt": "¿Qué correo usas para recuperar acceso al portal?",
+    "options": [
+      "El correo personal de un compañero",
+      "Tu correo corporativo",
+      "El correo del cliente"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "q9",
+    "category": "Herramientas digitales",
+    "recipe_id": "buscar-guias",
+    "prompt": "¿Qué compruebas al abrir una guía que vas a aplicar?",
+    "options": [
+      "La cantidad de páginas",
+      "El color de la categoría",
+      "La fuente documental"
+    ],
+    "correct": 2
+  }
+]

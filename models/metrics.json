@@ -1,0 +1,159 @@
+{
+  "model": "TF-IDF + LogisticRegression",
+  "learning_type": "supervised",
+  "labels": [
+    "devoluciones",
+    "envios",
+    "informacion_general",
+    "reclamaciones"
+  ],
+  "samples": 200,
+  "train_size": 160,
+  "test_size": 40,
+  "seed": 42,
+  "sklearn_version": "1.8.0",
+  "dataset_sha256": "9866d8473dd1933e9330dfea614fa9de8ce10ebed8ec038d3a71bcf88b0af4f3",
+  "accuracy": 0.9,
+  "precision": 0.9145299145299145,
+  "recall": 0.9,
+  "f1": 0.9016018306636154,
+  "macro_f1": 0.9016018306636154,
+  "report": {
+    "devoluciones": {
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1-score": 0.9473684210526315,
+      "support": 10.0
+    },
+    "envios": {
+      "precision": 0.8888888888888888,
+      "recall": 0.8,
+      "f1-score": 0.8421052631578947,
+      "support": 10.0
+    },
+    "informacion_general": {
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1-score": 0.9473684210526315,
+      "support": 10.0
+    },
+    "reclamaciones": {
+      "precision": 0.7692307692307693,
+      "recall": 1.0,
+      "f1-score": 0.8695652173913043,
+      "support": 10.0
+    },
+    "accuracy": 0.9,
+    "macro avg": {
+      "precision": 0.9145299145299145,
+      "recall": 0.9,
+      "f1-score": 0.9016018306636154,
+      "support": 40.0
+    },
+    "weighted avg": {
+      "precision": 0.9145299145299145,
+      "recall": 0.9,
+      "f1-score": 0.9016018306636155,
+      "support": 40.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      9,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      8,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      9,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      10
+    ]
+  ],
+  "baseline": {
+    "model": "DummyClassifier(strategy='most_frequent')",
+    "accuracy": 0.25,
+    "precision": 0.0625,
+    "recall": 0.25,
+    "f1": 0.1,
+    "macro_f1": 0.1,
+    "report": {
+      "devoluciones": {
+        "precision": 0.25,
+        "recall": 1.0,
+        "f1-score": 0.4,
+        "support": 10.0
+      },
+      "envios": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "informacion_general": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "reclamaciones": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "accuracy": 0.25,
+      "macro avg": {
+        "precision": 0.0625,
+        "recall": 0.25,
+        "f1-score": 0.1,
+        "support": 40.0
+      },
+      "weighted avg": {
+        "precision": 0.0625,
+        "recall": 0.25,
+        "f1-score": 0.1,
+        "support": 40.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        10,
+        0,
+        0,
+        0
+      ]
+    ]
+  }
+}
